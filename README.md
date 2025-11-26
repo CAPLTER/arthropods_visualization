@@ -110,9 +110,9 @@ Streamlit will open a browser tab at : http://localhost:8501
 1. Push this repo to GitHub
 2. Go to Streamlit Community Cloud
 3. Click "New app" and select:
-   Repo: your GitHub repo
-   Branch: main (or whichever)
-   File: streamlit_app.py
+   - Repo: your GitHub repo
+   - Branch: main (or whichever)
+   - File: streamlit_app.py
 4. Deploy
 
 You’ll get a URL that can be embedded in WordPress using iframe.
