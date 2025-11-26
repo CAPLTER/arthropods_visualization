@@ -87,6 +87,8 @@ All visualizations respond to these filters.
 
 ### 1. Clone or Download the repository
 
+      https://github.com/CAPLTER/arthropods_visualization.git
+
 ### 2. Create and activate a virtual environment
 
     python -m venv .venv
